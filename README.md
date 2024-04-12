@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science Student at the Lassonde School of Engineering at York University
 
-- 👨‍💻 I’m currently working on building a web application to showcase advanced U Sports basketball analytics.
+- 👨‍💻 I’m currently working on building a web application to showcase U Sports basketball analytics.
 - 📚 I’m currently learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Dive into data science and data engineering
 - ⚡ Fun fact: Music and Basketball are my two favourite hobbies.
