@@ -8,6 +8,9 @@
 
 <br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojadeyemi&theme=city_lights)
+
+
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
