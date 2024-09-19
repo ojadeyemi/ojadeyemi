@@ -2,9 +2,9 @@
 
 ### I'm a Computer Science Student at the Lassonde School of Engineering at York University
 
-- 👨‍💻 I’m currently a Data Engineer intern at Maple Leaf Sports and Entertainment.
+- 👨‍💻 I’m currently a Data Engineer at Maple Leaf Sports and Entertainment.
 - 💪🏼 Future Goals: Dive into machine learning, artificial intelligence, data science and engineering.
-- ⚡ Fun fact: Music and team sports (🏀 ⚽ 🏈) are my two favourite hobbies.
+- ⚡ Fun fact: Music and team sports (🏀 ⚽ 🏈) are my  favourite hobbies.
 
 <br>
 
