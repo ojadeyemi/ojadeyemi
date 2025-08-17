@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science Student at the Lassonde School of Engineering at York University
 
-- 👨‍💻 I’m currently a Data Engineer at Maple Leaf Sports and Entertainment.
+- 👨‍💻 I’m currently building [NorthScore](https://northscore.ca) (a sports technology platform unifying Canadian sports data and content into one hub)
 - 💪🏼 Future Goals: Dive into machine learning, artificial intelligence, data science and engineering.
 - ⚡ Fun fact: Music and team sports (🏀 ⚽ 🏈) are my  favourite hobbies.
 
@@ -56,7 +56,7 @@
 <ul>
   <li><a href="https://www.linkedin.com/pulse/data-visualization-storytelling-my-data-driven-canada-oj-adeyemi-nyqcf/"><b><img src="https://media.licdn.com/dms/image/D4D12AQHWg6cikfGtPA/article-cover_image-shrink_720_1280/0/1708526161034?e=2147483647&v=beta&t=VvjJQ4tJbUBjim3GXfKjazGkdoIL8p3oSGmC4zli_Yo" width="40" alt="new" style="margin-right: 10px;"/> U Sports Basketball Efficiency LandScape.</i></li>
     
-  <li><a href="https://www.linkedin.com/pulse/unveiling-dominance-discovering-most-successful-u-sports-oj-adeyemi-7doic/"><b><img src="https://media.licdn.com/dms/image/D5612AQFyDHThjLShyw/article-cover_image-shrink_720_1280/0/1710795082077?e=1724889600&v=beta&t=jb6Fi8qkaOwSNrHT4S5C8UvNSSlwZIzVc5-ONvOBykw"  width="40" alt="new" style="margin-right: 10px;"/> Discovering the Most Successful U Sports Basketball Programs</i></li>
+  <li><a href="https://www.linkedin.com/pulse/unveiling-dominance-discovering-most-successful-u-sports-oj-adeyemi-7doic/"><b><img src="https://media.licdn.com/dms/image/v2/D5612AQFyDHThjLShyw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1710795082077?e=1761177600&v=beta&t=2Hps20dyq1Tfn7GGm7zynryfDtH5J__QofyX8yUbAII"  width="40" alt="new" style="margin-right: 10px;"/> Discovering the Most Successful U Sports Basketball Programs</i></li>
 </ul>
 
 <br>
