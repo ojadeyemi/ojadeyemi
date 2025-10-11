@@ -2,9 +2,9 @@
 
 ### I'm a Computer Science Student at the Lassonde School of Engineering at York University
 
-- 👨‍💻 I’m currently building [NorthScore](https://northscore.ca) (a sports technology platform unifying Canadian sports data and content into one hub)
-- 💪🏼 Future Goals: Dive into machine learning, artificial intelligence, data science and engineering.
-- ⚡ Fun fact: Music and team sports (🏀 ⚽ 🏈) are my  favourite hobbies.
+- 👨‍💻 I’m currently building [NorthScore](https://northscore.ca) (Live scores, stats, and latest content across all Canadian sports leagues in one app.)
+- 💪🏼 Future Goals: Dive into artificial intelligence, data science and engineering.
+- ⚡ Fun fact: Music and team sports (🏀 ⚽ 🏈) are my favourite hobbies.
 
 <br>
 
@@ -31,7 +31,8 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
+![Nextjs](https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=plastic&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -50,16 +51,6 @@
 
 
 
-<br>
-
-## ✍️ Articles:
-<ul>
-  <li><a href="https://www.linkedin.com/pulse/data-visualization-storytelling-my-data-driven-canada-oj-adeyemi-nyqcf/"><b><img src="https://media.licdn.com/dms/image/D4D12AQHWg6cikfGtPA/article-cover_image-shrink_720_1280/0/1708526161034?e=2147483647&v=beta&t=VvjJQ4tJbUBjim3GXfKjazGkdoIL8p3oSGmC4zli_Yo" width="40" alt="new" style="margin-right: 10px;"/> U Sports Basketball Efficiency LandScape.</i></li>
-    
-  <li><a href="https://www.linkedin.com/pulse/unveiling-dominance-discovering-most-successful-u-sports-oj-adeyemi-7doic/"><b><img src="https://media.licdn.com/dms/image/v2/D5612AQFyDHThjLShyw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1710795082077?e=1761177600&v=beta&t=2Hps20dyq1Tfn7GGm7zynryfDtH5J__QofyX8yUbAII"  width="40" alt="new" style="margin-right: 10px;"/> Discovering the Most Successful U Sports Basketball Programs</i></li>
-</ul>
-
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oj-adeyemi) 
