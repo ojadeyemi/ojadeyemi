@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science Student at the Lassonde School of Engineering at York University
 
-- 👨‍💻 I’m currently building [NorthScore](https://northscore.ca) (Live scores, stats, and latest content across all Canadian sports leagues in one app.)
+- 👨‍💻 I’m currently building [Northscore](https://northscore.ca) (Live scores, stats, and latest content across all Canadian sports leagues in one app.)
 - 💪🏼 Future Goals: Dive into artificial intelligence, data science and engineering.
 - ⚡ Fun fact: Music and team sports (🏀 ⚽ 🏈) are my favourite hobbies.
 
